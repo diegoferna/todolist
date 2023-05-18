@@ -9,6 +9,7 @@ import { Logo } from "./components/assets/logo";
 import { ListItem } from "./components/ListItem/listItem";
 import { Separator } from "../../components/AppSeparator";
 
+
 export type dados = {
     titulo: string,
     check: boolean
